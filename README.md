@@ -16,3 +16,7 @@ This tool is useful for anyone looking to experiment with larger maps in AO or w
 ---
 
 *Feel free to use or adapt it for your own projects.*
+
+Example of implementation:
+
+https://www.youtube.com/watch?v=y3l5iPbW6J4
